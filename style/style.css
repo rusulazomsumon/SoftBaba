@@ -1,7 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #ffffffff;
+}
 .headFullCon {
     background-image:linear-gradient(to right, rgb(21, 106, 185) , rgb(13, 52, 88));
+}   
+.quizSecRight{
+    width: 100%;
+    height: auto;
 }
-
+.quiz-sec-head{
+    display: flex;
+}
+.quizSecRight{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* 
 Demo https://www.123test.com/ 
 https://www.psychologytoday.com
