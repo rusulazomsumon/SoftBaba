@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    color: #ffffffff;
 }
 .headFullCon {
     background-image:linear-gradient(to right, rgb(21, 106, 185) , rgb(13, 52, 88));
@@ -19,8 +18,19 @@
     justify-content: center;
     align-items: center;
 }
+
+/* feture quiz section */
+.fetureQuiz{
+    background-color: #FEC588;
+    text-align: center;
+}
+.quizImgContr img{
+    width: 150px;
+    height: 150px;
+}
 /* 
 Demo https://www.123test.com/ 
 https://www.psychologytoday.com
 https://www.psychologistworld.com/tests/
+https://businessguidebd.com/category/%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f/
 */
