@@ -9,12 +9,14 @@
     width: 100%;
     height: auto;
 }
+/* head right area text over image */
+
 .quiz-sec-head{
     display: flex;
 }
 .quizSecRight{
     text-align: center;
-    display: flex;
+    display: inline;
     justify-content: center;
     align-items: center;
 }
@@ -34,3 +36,4 @@ https://www.psychologytoday.com
 https://www.psychologistworld.com/tests/
 https://businessguidebd.com/category/%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f/
 */
+
